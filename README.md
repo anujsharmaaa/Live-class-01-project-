@@ -31,7 +31,7 @@ Live Link Netify
 https://project1-ineuronai.netlify.app/
 
 
-## Features
+## Features   
 
 - Live previews
 - Fullscreen mode
